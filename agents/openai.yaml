@@ -1,0 +1,4 @@
+interface:
+  display_name: "面板丝印与尺寸验收"
+  short_description: "处理复杂面板丝印与尺寸颜色标注，提供多视图、分块对比、逐色差异定位和反复复验"
+  default_prompt: "使用 $panel-silkscreen 制作或标注这些面板丝印，保留复杂细节，核对尺寸颜色，结合原图多视图、分块与逐色差异反复验收。"
